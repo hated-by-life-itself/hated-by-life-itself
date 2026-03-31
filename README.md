@@ -9,4 +9,4 @@
 <p align="center">
 <img src="https://i.postimg.cc/xdyxLszy/IMG-2815.gif" />
 </p>
-<p align="center">[atabook](peerlessgem.atabook.org)
+<p align="center">[ata](https://peerlessgem.atabook.org/)
